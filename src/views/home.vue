@@ -3,7 +3,7 @@
         <!-- navbar section -->
         <navbar></navbar>
         <!--end navbar section-->
-        <div class="intro-section bg-warning">
+        <div class="intro-section bg-primary">
             <div class="intro-overlay">
                 <div class="container">
                     <div class="row justify-content-center align-items-center" style="height: 100vh;">
@@ -258,7 +258,7 @@
                                             <h5>Kajal Aggarwal</h5>
                                             <p>Some quick example text to build on the card title and make up the bulk
                                                 of the card's content.</p>
-                                            <base-button color="warning">Go somewhere</base-button>
+                                            <base-button color="primary">Go somewhere</base-button>
                                         </card-body>
                                     </base-card>
                                 </div>
@@ -269,7 +269,7 @@
                                             <h5>Kajal Aggarwal</h5>
                                             <p>Some quick example text to build on the card title and make up the bulk
                                                 of the card's content.</p>
-                                            <base-button color="warning">Go somewhere</base-button>
+                                            <base-button color="primary">Go somewhere</base-button>
                                         </card-body>
                                     </base-card>
                                 </div>
@@ -280,7 +280,7 @@
                                             <h5>Kajal Aggarwal</h5>
                                             <p>Some quick example text to build on the card title and make up the bulk
                                                 of the card's content.</p>
-                                            <base-button color="warning">Go somewhere</base-button>
+                                            <base-button color="primary">Go somewhere</base-button>
                                         </card-body>
                                     </base-card>
                                 </div>
@@ -303,10 +303,10 @@
                                     </base-card>
                                 </div>
                                 <div class="col-md-4">
-                                    <base-card class="bg-warning text-white">
+                                    <base-card class="bg-primary text-white">
                                         <card-header>card-header</card-header>
                                         <card-body>
-                                            <h5 class="card-title text-white">warning card title</h5>
+                                            <h5 class="card-title text-white">primary card title</h5>
                                             <p class="card-text">Some quick example text to build on the card title and
                                                 make up the bulk of the card's content.</p>
                                         </card-body>
@@ -1070,7 +1070,7 @@ sagittis lacus vel augue laoreet rutrum faucibus.">
                             <h2 class="text-uppercase mt-5 mb-4">{{ title }} Awesome Design System</h2>
                             <p class="lead mb-4">{{ title }} Design system comes with login and register page to help you get started, also it has it's own
                             beautiful documentation to help you out. It is based on <a href="http://www.bootcatch.com/lightly" target="_blank">Peace Theme</a>. Which is based on latest Bootstrap.</p>
-                            <base-button color="warning">
+                            <base-button color="primary">
                                 See all components
                             </base-button>
                         </div>
